@@ -44,7 +44,8 @@ public class ChessGameView {
     public ChessGame cg;
     
     public static void main(String[] args) throws IOException {
-        BufferedImage all=ImageIO.read(new File("/Users/carlosherrero/NetBeansProjects/chessDraw/src/main/java/chess.png"));
+        //BufferedImage all=ImageIO.read(new File("/Users/carlosherrero/NetBeansProjects/chessDraw/src/main/java/chess.png"));
+        BufferedImage all=ImageIO.read(new File("pieces/chess.png"));
         
         imgs=new Image[12];
         int ind=0;
