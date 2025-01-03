@@ -1,0 +1,14 @@
+/Users/carlosherrero/NetBeansProjects/chgChess/src/main/java/com/chg/chess/Board.java
+/Users/carlosherrero/NetBeansProjects/chgChess/src/main/java/com/chg/chess/CastleMovement.java
+/Users/carlosherrero/NetBeansProjects/chgChess/src/main/java/com/chg/chess/ChessGame.java
+/Users/carlosherrero/NetBeansProjects/chgChess/src/main/java/com/chg/chess/EvaluatedBoard.java
+/Users/carlosherrero/NetBeansProjects/chgChess/src/main/java/com/chg/chess/FEN.java
+/Users/carlosherrero/NetBeansProjects/chgChess/src/main/java/com/chg/chess/GamePiece.java
+/Users/carlosherrero/NetBeansProjects/chgChess/src/main/java/com/chg/chess/Movement.java
+/Users/carlosherrero/NetBeansProjects/chgChess/src/main/java/com/chg/chess/PawnCaptureMovement.java
+/Users/carlosherrero/NetBeansProjects/chgChess/src/main/java/com/chg/chess/PawnCapturePromotionMovement.java
+/Users/carlosherrero/NetBeansProjects/chgChess/src/main/java/com/chg/chess/PawnPromotionMovement.java
+/Users/carlosherrero/NetBeansProjects/chgChess/src/main/java/com/chg/chess/Position.java
+/Users/carlosherrero/NetBeansProjects/chgChess/src/main/java/com/chg/chess/PotentialMovements.java
+/Users/carlosherrero/NetBeansProjects/chgChess/src/main/java/com/chg/view/ChessGameView.java
+/Users/carlosherrero/NetBeansProjects/chgChess/src/main/java/com/chg/view/ChessView.java
