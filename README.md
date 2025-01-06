@@ -4,6 +4,9 @@ version 2 will improve alfabeta to order potential movements in the search in ea
 In build time, the pieces/chess.png file is not included in executable jar file <br>
 From Netbeans it runs properly though <br>
 So in order to run the jar file we have to previously run: <br>
-jar -uf target.jar <pathtopieces> <br>
+jar -uf chess.jar \<pathtopieces\> <br>
 to update the jar file <br>
-or even just copy <piecesfolder> to jar file home <br>
+or even just copy \<piecesfolder\> to jar file home <br>
+to run: <br>
+java -cp chguirauChess-1.0-SNAPSHOT.jar com.chg.view.ChessGameView
+
